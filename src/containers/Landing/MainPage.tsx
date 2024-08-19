@@ -7,7 +7,7 @@ function MainPage() {
         <div className="flex flex-col lg:flex-row items-center lg:p-20 xl:[80%] m-auto">
             <div className="p-3 mt-5 text-[#999] text-base mb-10">
                 <div className="relative  w-full h-[150px] mb-5 lg:w-[300px] lg:h-[200px]">
-                    <Image src="/src/landing-page/years-of-journey.jpg" alt="Years of Journey" fill />
+                    <Image src="/years-of-journey.jpg" alt="Years of Journey" fill />
                 </div>
 
                 <p className="mb-5">
@@ -22,7 +22,7 @@ function MainPage() {
                 <div className="flex items-center mt-5">
                     <div style={{ maxWidth: "100px", borderRadius: "50%", boxShadow: "0px 6px 10px 0px rgba(254, 135, 4, 0.2)", border: "5px solid", marginRight: "25px" }}>
 
-                        <Image src="/src/landing-page/ceo.jpg" alt="CEO" height={90} width={90} className="rounded-full" />
+                        <Image src="/ceo.jpg" alt="CEO" height={90} width={90} className="rounded-full" />
                     </div>
                     <div className="flex flex-col">
                         <h3 className="font-bold text-blue-500">Excel Geseti</h3>

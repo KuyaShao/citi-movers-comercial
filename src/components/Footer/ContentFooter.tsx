@@ -7,7 +7,7 @@ function ContentFooter() {
         <div className="grid grid-cols-12 w-full m-auto lg:w-[60%] mb-5">
             <div className="col-span-10 lg:col-span-6 ml-5">
                 <div className="relative h-[100px] w-[100px] lg:w-[100px] lg:h-[100px] mt-2 object-contain">
-                    <Image src="/components/nav-bar/logo2.png" alt="Citi Movers Logo" fill sizes="100px" />
+                    <Image src="/logo2.png" alt="Citi Movers Logo" fill sizes="100px" />
                 </div>
                 <p className="text-[#999] text-sm mb-5">
                     Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,

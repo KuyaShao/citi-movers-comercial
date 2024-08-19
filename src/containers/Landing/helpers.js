@@ -14,7 +14,7 @@ const animations = [
 ];
 const images = [
     {
-        src: "/src/landing-page/truck.jpeg",
+        src: "/truck.jpeg",
         alt: "We are Citi Movers",
         title: "We are Citi Movers",
         subTitle: "From Pickup to Destination",
@@ -22,7 +22,7 @@ const images = [
         buttonText: "Learn more"
     },
     {
-        src: '/src/landing-page/trucktor.jpg',
+        src: '/trucktor.jpg',
         alt: 'Slide 2',
         title: "Ready for any Obstacles",
         subTitle: "Anywhere, Anytime",
@@ -30,7 +30,7 @@ const images = [
         buttonText: "DISCOVER MORE"
     },
     {
-        src: '/src/landing-page/construction-site.jpeg',
+        src: '/construction-site.jpeg',
         alt: 'Efficient Logistics',
         title: "Efficient Logistics",
         subTitle: "Optimized for You",

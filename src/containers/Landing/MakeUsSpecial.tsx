@@ -14,7 +14,7 @@ function MakeUsSpecial() {
                 <div className="grid grid-cols-12 mt-5">
                     <div className="col-span-4 hidden xl:block lg:ml-40">
                         <div className="relative h-[500px] max-w-[80%] lg:w-full">
-                            <Image src="/src/landing-page/courier-man.png" alt="people-with-box" fill />
+                            <Image src="/courier-man.png" alt="people-with-box" fill />
                         </div>
                     </div>
                     <div className="col-span-12 xl:col-span-6">

@@ -7,7 +7,7 @@ function AboutUs() {
                 <div className="grid grid-cols-12">
                     <div className="col-span-12 lg:col-span-5 p-5 lg:ml-20 xl:ml-40">
                         <div className="relative h-[380px] max-w-full lg:max-w-[80%]  xl:max-w-[60%] lg:h-[500px] " style={{ border: "10px solid #fff", boxShadow: "0px 6px 10px 0px rgba(254, 135, 4, 0.2)" }}>
-                            <Image src="/src/landing-page/logistics.jpg" alt="Logistics" fill />
+                            <Image src="/logistics.jpg" alt="Logistics" fill />
                         </div>
                     </div>
                     <div className="col-span-12 lg:col-span-6 p-5">

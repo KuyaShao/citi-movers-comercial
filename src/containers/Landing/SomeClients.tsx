@@ -4,23 +4,23 @@ import Image from 'next/image';
 
 const clients = [
     {
-        src: "/src/landing-page/client-logo/jandj.png",
+        src: "/jandj.png",
         alt: "Johnson and Johnson"
     },
     {
-        src: "/src/landing-page/client-logo/colgate-palmolive.jpg",
+        src: "/colgate-palmolive.jpg",
         alt: "Colgate Palmolive"
     },
     {
-        src: "/src/landing-page/client-logo/monde-nissin.png",
+        src: "/monde-nissin.png",
         alt: "Monde Nissin"
     },
     {
-        src: "/src/landing-page/client-logo/nestle.png",
+        src: "/nestle.png",
         alt: "Nestle"
     },
     {
-        src: "/src/landing-page/client-logo/tupperware.png",
+        src: "/tupperware.png",
         alt: "Tupperware"
     },
 ];
