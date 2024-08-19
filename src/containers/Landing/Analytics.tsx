@@ -1,7 +1,7 @@
 import { EnvironmentFilled, FileDoneOutlined, GlobalOutlined, TruckFilled } from '@ant-design/icons';
 function Analytics() {
     return (
-        <div className="relative bg-[url('/src/landing-page/warehouse.jpg')] bg-cover bg-center bg-fixed  ">
+        <div className="relative bg-[url('/warehouse.jpg')] bg-cover bg-center bg-fixed  ">
             <div className="absolute inset-0 bg-black opacity-60"></div>
             <div className="relative z-10">
                 <div className="grid grid-cols-12 pb-5 lg:w-[80%] m-auto">

@@ -26,7 +26,7 @@ const clients = [
 ];
 function SomeClients() {
     return (
-        <div className="relative  bg-[url('/src/landing-page/some-our-clients.jpeg')] bg-cover bg-center text-white text-center uppercase mt-5 pt-10">
+        <div className="relative  bg-[url('/some-our-clients.jpeg')] bg-cover bg-center text-white text-center uppercase mt-5 pt-10">
             <div className="absolute inset-0 bg-black opacity-60">
 
             </div>
