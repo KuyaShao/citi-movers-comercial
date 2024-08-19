@@ -59,7 +59,7 @@ function NavBar() {
                 <div className="flex items-center justify-between max-w-screen-xl mx-auto w-full h-full px-5">
                     <div className="flex items-center">
                         <div className="relative h-[80px] w-[80px] object-contain">
-                            <Image src="/components/NavBar/logo2.png" alt="Citi Movers Logo" fill sizes="100px" />
+                            <Image src="/components/nav-bar/logo2.png" alt="Citi Movers Logo" fill sizes="100px" />
                         </div>
                     </div>
 
